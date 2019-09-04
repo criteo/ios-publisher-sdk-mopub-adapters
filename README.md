@@ -7,7 +7,7 @@ Refer [integration document]() on how to setUp Custom Events and integrate MoPub
 Criteo Direct Bidder can be integrated via the __CriteoPublisherSdk__ framework using the below options.
 
 __Note__: CriteoPublisherSdk framework does not include adapters. The adapter source code will have to be manually copied from this repository and added to your project sources.
-Instructions [here]()
+Instructions [here]
 
 ## CocoaPods Installation
 

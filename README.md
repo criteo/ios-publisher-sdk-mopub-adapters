@@ -1,4 +1,4 @@
-# ios-sdk-mopub-mediation-adapter
+# ios-publisher-sdk-mopub-adapters
 
 This repository contains adapters for MoPub mediation. 
 

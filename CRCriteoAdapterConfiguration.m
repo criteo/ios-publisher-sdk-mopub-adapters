@@ -2,7 +2,7 @@
 //  CRCriteoAdapterConfiguration.m
 //  CriteoMoPubAdapter
 //
-//  Copyright © 2019 Criteo. All rights reserved.
+//  Copyright © 2018-2020 Criteo. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@
     // We use an hardcoded value (not a macro) so
     // that the file is self-contained in the
     // open-source repository.
-    return @"3.6.0.0";
+    return @"3.6.1.0";
 }
 
 - (NSString *)biddingToken {
@@ -36,7 +36,7 @@
 }
 
 - (NSString *)networkSdkVersion {
-    return @"3.6.0.0";
+    return @"3.6.1.0";
 }
 
 - (void)initializeNetworkWithConfiguration:(NSDictionary<NSString *, id> *)configuration complete:(void(^)(NSError *))complete {
